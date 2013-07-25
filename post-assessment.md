@@ -23,17 +23,17 @@
 #### Python
 * Didn't teach this material
 * Taught some of the intended material
-* Taught all indtended material
+* Taught all intended material
 
 #### Version Control
 * Didn't teach this material
 * Taught some of the intended material
-* Taught all indtended material
+* Taught all intended material
 
 #### Debugging, Testing, Documentation
 * Didn't teach this material
 * Taught some of the intended material
-* Taught all indtended material
+* Taught all intended material
 
 #### Please indicate how the pacing of instruction seemed to be received.
 ##### (presented as a matrix)
