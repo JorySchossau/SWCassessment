@@ -1,11 +1,13 @@
 #### What infrastructure was used for this bootcamp and were there any problems?
+##### (presented as a matrix)
 * preloaded VM
 * self-installed python
 * self-installed git
 * self-installed DB
 * self-installed iPython Notebook
 * packaged iPython Notebook
-Columns:
+
+##### Columns:
 * Did not use
 * No Issues
 * Problems during install
@@ -16,7 +18,7 @@ Columns:
 #### Shell
 * Didn't teach this material
 * Taught some of the intended material
-* Taught all indtended material
+* Taught all intended material
 
 #### Python
 * Didn't teach this material
@@ -78,7 +80,7 @@ Columns:
 * Well-Mixed
 * Mostly Examples
 
-#### In each of the following scenarios, please select the answer that best applies to the average participant:
+#### In each of the following scenarios, please select the answer that best applies to your concept of the average participant for this bootcamp:
 #### 1. A tab-delimited file has two columns showing the date and the highest temperature on that day. The participant is asked to write a program to produce a graph showing the average highest temperature for each month.
 * They could not complete this task.
 * They could complete the task with documentation or search engine help.
