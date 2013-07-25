@@ -1,17 +1,19 @@
 #### What infrastructure was used for this bootcamp and were there any problems?
 ##### (presented as a matrix)
-* preloaded VM
-* self-installed python
-* self-installed git
-* self-installed DB
-* self-installed iPython Notebook
-* packaged iPython Notebook
+* Anaconda, on participant's machine
+* Canopy, on participant's machine
+* Python (other), on participant's machine
+* Git Bash, on participant's machine
+* Cygwin, on participant's machine
+* VM, on participant's machine
+* Site-provided machine
+* Remote machine
 
 ##### Columns:
 * Did not use
-* No Issues
-* Problems during install
-* Problems during lecture
+* No problems
+* Some problems
+* Lots of problems
 
 #### Please indicate for each topic how much you were able to teach relative to your goal, whether preconceived or impromptu.
 ##### (Presented as a matrix)
@@ -26,6 +28,11 @@
 * Taught all intended material
 
 #### Version Control
+* Didn't teach this material
+* Taught some of the intended material
+* Taught all intended material
+
+#### SQL
 * Didn't teach this material
 * Taught some of the intended material
 * Taught all intended material
@@ -52,6 +59,11 @@
 * Just right
 * Too fast
 
+#### SQL
+* Too slow
+* Just right
+* Too fast
+
 #### Debugging, Testing, Documentation
 * Too slow
 * Just right
@@ -71,6 +83,11 @@
 * Mostly Examples
 
 #### Version Control
+* Mostly Principles
+* Well-Mixed
+* Mostly Examples
+
+#### SQL
 * Mostly Principles
 * Well-Mixed
 * Mostly Examples
