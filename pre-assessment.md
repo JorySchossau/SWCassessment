@@ -7,7 +7,7 @@ information about our participants. The next three questions are optional.
 
 ### How old are you? [optional]
 ____________
-    Prefer not to say
+  Prefer not to say
 
 
 ### 3. What is your gender [optional]
@@ -92,36 +92,53 @@ ____________
 * I am part of a team which develops software.
 
 ### In each of the following scenarios, please select the answer that best applies to you:
+### 11. A tab-delimited file has two columns showing the date and the highest temperature on that day. Write a program to produce a graph showing the average highest temperature for each month.
+* I could not complete this task.
+* I could complete the task with documentation or search engine help.
+* I complete the task with little or no documentation or search engine help.
 
-### 11. Programming: Given the following task, what is your familiarity with data processing? A tab-delimited file has two columns showing the date and the highest temperature on that day. Write a program to produce a graph showing the average highest temperature for each month.
-* I am not familiar with data processing.
-* I am familiar only with data processing in name.
-* I am familiar with data processing enough to complete this task with documentation or search engine help.
-* I am familiar with data processing enough to complete this task with little or no documentation or search engine help.
-
-### 12. Version Control: Given the following task, what is your familiarity with GIT version control? Given the URL for a project on GitHub, check out a working copy of that project, add a file called notes.txt, and commit the change.
+### 12a. How familiar do you think you are with GIT version control?
 * I am not familiar with GIT.
 * I am familiar only with the name GIT.
-* I am familiar with GIT enough to complete this task with documentation or search engine help.
-* I am familiar with GIT enough to complete this task with little or no documentation or search engine help.
+* I am familiar with GIT up to the point of using it.
+* I am familiar with GIT because I have or am using it.
+
+### 12b. Answer only if you answered (4) on the previous question. Given the URL for a project on GitHub, check out a working copy of that project, add a file called notes.txt, and commit the change.
+* I could not complete this task.
+* I could complete the task with documentation or search help.
+* I complete the task with little or no documentation or search help.
 
 
+### 13a. How familiar do you think you are with unit testing and code coverage? 
+* I am not familiar with unit testing or code coverage.
+* I am familiar only with the name unit testing or code coverage.
+* I am familiar with unit testing or code coverage up to the point of using it.
+* I am familiar with unit testing or code coverage because I have or am using it.
 
-### 13. Testing: Given the following task, what is your familiarity with unit testing and code coverage? Given a 200-line function to test, write half a dozen tests using a unit testing framework and use code coverage to check that they exercise every line of the function.
-* I am not familiar with unit testing.
-* I am familiar with the name unit testing..
-* I am familiar with the concept of unit testing.
-* I am familiar with and can use unit testing to complete the task.
+### 13b. Answer only if you answered (4) on the previous question. Given a 200-line function to test, write half a dozen tests using a unit testing framework and use code coverage to check that they exercise every line of the function.
+* I could not complete this task.
+* I could complete the task with documentation or search engine help.
+* I complete the task with little or no documentation or search engine help.
 
+### 14a. How familiar do you think you are with SQL?
+1. I am not familiar at all with SQL.
+2. I am familiar only with the name SQL.
+3. I am familiar with SQL up to the point of using it.
+4. I am familiar with SQL because I have or am using it.
 
-### 14. Databases: Given the following task, what is your familiarity with SQL? A database has two tables Scientist and Lab. Scientist's columns are the scientist's user ID, name, and email address; Lab's columns are lab IDs, lab names, and scientist IDs. Write an SQL statement that outputs the count of the number of scientists in each lab.
-* I am not familiar with SQL.
-* I am familiar only with the name SQL.
-* I am familiar with SQL enough to complete the task with documentation or search engine help.
-* I am familiar with SQL enough to complete the task with little or no documentation or search engine help.
+### 14b. Answer only if you answered (4) on the previous question. A database has two tables Scientist and Lab. Scientist's columns are the scientist's user ID, name, and email address; Lab's columns are lab IDs, lab names, and scientist IDs. Write an SQL statement that outputs the count of the number of scientists in each lab.
+* I could not complete this task.
+* I could complete the task with documentation or search engine help.
+* I complete the task with little or no documentation or search engine help.
 
-### 15. Shell: A directory contains 1000 text files. Create a list of all files that contain the word "Drosophila" and save the result to a file called results.txt.
+### 15a. How familiar do you think you are with the command line?
+1. I am not familiar at all with the command line.
+2. I am familiar only with the name command line.
+3. I am familiar with the command line up to the point of using it.
+4. I am familiar with the command line because I have or am using it.
+
+### 15b. Answer only if you answered (4) on the previous question. How would you solve this problem? A directory contains 1000 text files. Create a list of all files that contain the word "Drosophila" and save the result to a file called results.txt.
 * I could not create this list.
 * I would create this list using "Find in Files" and "copy and paste".
-* I would create this list using basic shell commands.
-* I would create this list using a pipeline of shell commands.
+* I would create this list using basic command line programs.
+* I would create this list using a pipeline of command line programs.
