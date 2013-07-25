@@ -95,7 +95,7 @@ ____________
 #### 11. A tab-delimited file has two columns showing the date and the highest temperature on that day. Write a program to produce a graph showing the average highest temperature for each month.
 * I could not complete this task.
 * I could complete the task with documentation or search engine help.
-* I complete the task with little or no documentation or search engine help.
+* I could complete the task with little or no documentation or search engine help.
 
 #### 12a. How familiar do you think you are with GIT version control?
 * I am not familiar with GIT.
@@ -106,7 +106,7 @@ ____________
 #### 12b. Answer only if you answered (4) on the previous question. Given the URL for a project on GitHub, check out a working copy of that project, add a file called notes.txt, and commit the change.
 * I could not complete this task.
 * I could complete the task with documentation or search help.
-* I complete the task with little or no documentation or search help.
+* I could complete the task with little or no documentation or search help.
 
 
 #### 13a. How familiar do you think you are with unit testing and code coverage? 
@@ -118,7 +118,7 @@ ____________
 #### 13b. Answer only if you answered (4) on the previous question. Given a 200-line function to test, write half a dozen tests using a unit testing framework and use code coverage to check that they exercise every line of the function.
 * I could not complete this task.
 * I could complete the task with documentation or search engine help.
-* I complete the task with little or no documentation or search engine help.
+* I could complete the task with little or no documentation or search engine help.
 
 #### 14a. How familiar do you think you are with SQL?
 1. I am not familiar at all with SQL.
