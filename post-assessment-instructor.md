@@ -1,9 +1,10 @@
-#### What infrastructure was used for this bootcamp and were there any problems?
+#### What technology was used for this bootcamp and were there any problems?
 ##### (presented as a matrix)
 * Anaconda, on participant's machine
 * Canopy, on participant's machine
 * Python (other), on participant's machine
 * Git Bash, on participant's machine
+* Git GUI, on participant's machine
 * Cygwin, on participant's machine
 * VM, on participant's machine
 * Site-provided machine
@@ -15,34 +16,89 @@
 * Some problems
 * Lots of problems
 
-#### Please indicate for each topic how much you were able to teach relative to your goal, whether preconceived or impromptu.
+#### Please indicate for each topic how much you were able to teach relative to your goal, whether preconceived or impromptu. In the last few columns, indicate whether there were problems.
 ##### (Presented as a matrix)
 #### Shell
 * Didn't teach this material
 * Taught some of the intended material
 * Taught all intended material
+* No problems
+* Some problems
+* Lots of problems
 
 #### Python
 * Didn't teach this material
 * Taught some of the intended material
 * Taught all intended material
+* No problems
+* Some problems
+* Lots of problems
 
-#### Version Control
+#### Git
 * Didn't teach this material
 * Taught some of the intended material
 * Taught all intended material
+* No problems
+* Some problems
+* Lots of problems
+
+#### SVN
+* Didn't teach this material
+* Taught some of the intended material
+* Taught all intended material
+* No problems
+* Some problems
+* Lots of problems
+
+#### Mercurial
+* Didn't teach this material
+* Taught some of the intended material
+* Taught all intended material
+* No problems
+* Some problems
+* Lots of problems
+
+#### Regular Expressions
+* Didn't teach this material
+* Taught some of the intended material
+* Taught all intended material
+* No problems
+* Some problems
+* Lots of problems
 
 #### SQL
 * Didn't teach this material
 * Taught some of the intended material
 * Taught all intended material
+* No problems
+* Some problems
+* Lots of problems
 
-#### Debugging, Testing, Documentation
+#### Debugging
 * Didn't teach this material
 * Taught some of the intended material
 * Taught all intended material
+* No problems
+* Some problems
+* Lots of problems
 
-#### Please indicate how the pacing of instruction seemed to be received.
+#### Testing
+* Didn't teach this material
+* Taught some of the intended material
+* Taught all intended material
+* No problems
+* Some problems
+* Lots of problems
+
+#### Documentation
+* Didn't teach this material
+* Taught some of the intended material
+* Taught all intended material
+* No problems
+* Some problems
+* Lots of problems
+
+#### Please indicate the pacing of instruction.
 ##### (presented as a matrix)
 #### Shell
 * Too slow
@@ -54,7 +110,22 @@
 * Just right
 * Too fast
 
-#### Version Control
+#### GIT
+* Too slow
+* Just right
+* Too fast
+
+#### SVN
+* Too slow
+* Just right
+* Too fast
+
+#### Mercurial
+* Too slow
+* Just right
+* Too fast
+
+#### Regular Expressions
 * Too slow
 * Just right
 * Too fast
@@ -64,7 +135,17 @@
 * Just right
 * Too fast
 
-#### Debugging, Testing, Documentation
+#### Debugging
+* Too slow
+* Just right
+* Too fast
+
+#### Testing
+* Too slow
+* Just right
+* Too fast
+
+#### Documentation
 * Too slow
 * Just right
 * Too fast
@@ -82,7 +163,17 @@
 * Well-Mixed
 * Mostly Examples
 
-#### Version Control
+#### Git
+* Mostly Principles
+* Well-Mixed
+* Mostly Examples
+
+#### SVN
+* Mostly Principles
+* Well-Mixed
+* Mostly Examples
+
+#### Mercurial
 * Mostly Principles
 * Well-Mixed
 * Mostly Examples
@@ -92,7 +183,17 @@
 * Well-Mixed
 * Mostly Examples
 
-#### Debugging, Testing, Documentation
+#### Debugging
+* Mostly Principles
+* Well-Mixed
+* Mostly Examples
+
+#### Testing
+* Mostly Principles
+* Well-Mixed
+* Mostly Examples
+
+#### Documentation
 * Mostly Principles
 * Well-Mixed
 * Mostly Examples
